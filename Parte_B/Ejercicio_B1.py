@@ -1,5 +1,5 @@
 # 1. Defino la playlist como una lista. 
-playlist=["El terco", "Cruz diablo!","No more teers","Salando las heridas","Ji ji ji"]
+playlist=["El terco", "Cruz diablo!","No More Tears","Salando las heridas","Ji ji ji"]
 # 2. Imprimo todas las canciones disponibles en la lista.
 print("\n Playlist entera")
 print (playlist)
